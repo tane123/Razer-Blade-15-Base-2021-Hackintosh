@@ -4,8 +4,8 @@ I will be uploading fixes as I find issues.
 
 ## What works:
 - Power Management (not 100%)
-- IGPU without any bios modding like previous years
-- Trackpad (GPIO) and Keyboard
+- IGPU without any bios modding like previous years blades
+- Trackpad (I2c) and Keyboard
 - Audio
 - Intel wifi (Can be iffy sometimes)
 - Thunderbolt, patches are created but I have no devices to test with
